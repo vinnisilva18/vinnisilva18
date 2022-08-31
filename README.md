@@ -1,6 +1,6 @@
 ### Olá, eu sou o Vinicius! 👋
 
-- 💻 Apaixonado por tecnologia. 
+- 💻 Apaixonado por tecnologia, design & games. 
 
 - 🎯 MBA/Pos-Graduação em Gestão de Projetos e Metodologias Ágeis pela Faculdade Descomplica/2022
 - 👨🏿‍🎓 Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Sumaré/2022 ...
