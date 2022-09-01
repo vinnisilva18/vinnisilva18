@@ -3,7 +3,7 @@
 - 💻 Apaixonado por tecnologia, design & games. 
 - 🚀 Estudante do DESENVOLVE 2022 - Grupo Boticário 
 
-- 🎯 MBA/Pos-Graduação em Gestão de Projetos e Metodologias Ágeis pela Faculdade Descomplica/2022
+- 🎯 MBA/Pós-Graduação em Gestão de Projetos e Metodologias Ágeis pela Faculdade Descomplica/2022
 - 👨🏿‍🎓 Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Sumaré/2022 ...
 - 🎨 Superior de Tecnologia em Design Gráfico pela Universidade Anhembi Morumbi/2020. 
 
